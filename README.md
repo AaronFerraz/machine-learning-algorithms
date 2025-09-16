@@ -1,2 +1,5 @@
-# EP_IA
-Repositório destinado para a realização de trabalhos da disciplina de Inteligência Artificial
+# Algoritmos de Machine Learning
+- Perceptron Neuron
+- KNN
+- SOM
+- Algortimos Genéticos
