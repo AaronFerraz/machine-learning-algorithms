@@ -7,23 +7,14 @@ A definição do resultado final depende se o algoritmo está sendo usado como C
 
 <br>
 
-**Implementação de KNN Classificador**
-<img src="KNN/imgs/knn-classicador.jpg" width="400">
-
-<br>
-
-**Implementação de KNN Regressor**
-<div style="display: flex; gap: 10px;">
-    <div>
-        <img src="KNN/imgs/knn-regressor-California-Housing--Real-vs-Previsto.jpg" width="300">
-    </div>
-    <div>
-        <img src="KNN/imgs/knn-regressor-Diabetes--Real-vs-Previsto.jpg" width="300">
-    </div>
-</div>
+#### **Visualização dos Modelos**
+| KNN Classificador | KNN Regressor (California & Diabetes) |
+| :---: | :---: |
+| <img src="KNN/imgs/knn-classicador.jpg" width="380"> | <img src="KNN/imgs/knn-regressor-California-Housing--Real-vs-Previsto.jpg" width="270"> <img src="KNN/imgs/knn-regressor-Diabetes--Real-vs-Previsto.jpg" width="270"> |
 
 
 <hr>
+
 **Continuação:** <br>
 - Perceptron Neuron <br>
 - Decision Trees <br>
